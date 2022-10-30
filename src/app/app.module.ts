@@ -25,6 +25,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { GithubCalendarComponent } from './github-calendar/github-calendar.component';
 import {AnimateModule} from "./animation/animate.module";
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
+import { SoftwareSkill2Component } from './skills/software-skill2/software-skill2.component';
 @NgModule({
     declarations: [
         AppComponent,
@@ -46,6 +47,7 @@ import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
         ProjectsComponent,
         EducationComponent,
         GithubCalendarComponent,
+        SoftwareSkill2Component,
     ],
   imports: [
     BrowserModule,

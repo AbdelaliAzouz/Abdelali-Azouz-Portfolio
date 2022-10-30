@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import ngColorThief from 'angular-colorthief';
+// import ngColorThief from 'angular-colorthief';
 @Component({
   selector: 'app-experience-card',
   templateUrl: './experience-card.component.html',

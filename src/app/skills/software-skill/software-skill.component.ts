@@ -45,16 +45,6 @@ export class SoftwareSkillComponent implements OnInit {
         fontAwesomeClassname: "fas fa-database"
       },
     ],
-    softwareSkills2: [
-      {
-        skillName: "Machine Learning",
-        fontAwesomeClassname: "fab fa-html5"
-      },
-      {
-        skillName: "css3",
-        fontAwesomeClassname: "fab fa-css3-alt"
-      },
-    ]
   };
   constructor() { }
 
