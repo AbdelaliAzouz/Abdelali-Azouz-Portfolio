@@ -22,7 +22,7 @@ export class ProjectsComponent implements OnInit {
       "recommended and popular scripting language in web development, ReactJS for the Front-End part, NodeJS and Express for the Back-End \n" +
       "and Server part, MySQL for the Database part, Firebase as real-time database....",      
       className1: "mar-right",
-      link: "t",
+      link: "https://github.com/AbdelaliAzouz/LST-GI-PFE-Project",
       className2: "prt_about_learnbox_right",
     },
     {
@@ -37,16 +37,14 @@ export class ProjectsComponent implements OnInit {
       "information. then I loaded the data into mongoDB database by connecting Flask with the server.The platform gives the user \n" +
       "the ability to download the data or make a visualization with the matplotlib library.",
       className2: "prt_about_learnbox_right",
-      link: "t",
+      link: "https://github.com/AbdelaliAzouz/Scraping-cryptocurrencies-Data",
     },
     {
       heading: "Simulation of a car parking",
       subtitle: "Tools: JAVA(POO, GUI Swing, Multithreading)",
       content: "A smart parking developed with JAVA, where the graphical part is done with Swing and AWT. Each car is represented as a thread where the behaviors of each car are : \n",
-      
-            
       className1: "mar-right",
-      link: "t",
+      link: "https://github.com/AbdelaliAzouz/Smart-parking-Simulation",
       className2: "right",
       steps1:"•	1. The car get outside for a while.",
       steps2:"•	2. Request and obtain access to the car park. \n",
@@ -67,7 +65,7 @@ export class ProjectsComponent implements OnInit {
       steps6:"•	6. Model Performance",
 
       className1: "mar-left",
-      link: "t",
+      link: "https://www.kaggle.com/code/parismollo/urban-traffic-analysis-sao-paulo",
       className2: "prt_about_learnbox_right"
     },
     {
@@ -80,7 +78,7 @@ export class ProjectsComponent implements OnInit {
       "b.Taux d’inscription/réussite par ville\n"+
       "c. Taux d’inscription/réussite par Sexe et par année",
       className1: "mar-right",
-      link: "t",
+      link: "https://drive.google.com/file/d/1cza4Qoyl-_922XooeN_1vkF1JFeAwTh3/view?usp=sharing",
       className2: "prt_about_learnbox_right",
         }
     ];

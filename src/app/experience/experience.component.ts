@@ -18,10 +18,6 @@ export class ExperienceComponent implements OnInit {
         date: "../../assets/images/certifications/Big_Data_Engineer.png",
         // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         desc: "Upcoming Software Enginer Specialist(SES) at Infosys",
-        // descBullets: [
-        //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-        // ]
       },
       {
         role: "Computer Science & Engineering",
@@ -30,10 +26,6 @@ export class ExperienceComponent implements OnInit {
         companylogo: "../../../assets/images/gla.png",
         date: "Aug 2016 – Jul 2020",
         desc: "I have completed my 4 year graduation degree in computer science with overall CGPA 8.6",
-        // descBullets: [
-        //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-        // ]
       },
       {
         role: "Software Engineer Intern",
@@ -43,10 +35,6 @@ export class ExperienceComponent implements OnInit {
         date: "Jun 2018 – Aug 2018",
         desc: "The 6- Week summer training focused on full-stack web development and helped learn to work in a team",
         },
-      // descBullets: [
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      // ]
     ]
   };
 

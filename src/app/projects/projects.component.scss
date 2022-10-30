@@ -15,9 +15,7 @@
   font-weight: 400;
   color: #ffff;
 }
-//#6c63ff
-//#868e96
-//#0a52d6
+
 .prt_heading_wrapper {
   text-align: center;
 }
@@ -70,6 +68,8 @@
   display: table-cell;
   width: calc(100% - 200px);
   background-color: #343c50;
+  border-radius: 8px;
+  padding:10px;
 
 }
 .prt_about_learnbox_info h4 {
@@ -107,6 +107,31 @@
   transition: all .3s;
 
 
+}
+
+.main-button {
+  background-color: #2f447e;
+  border: solid 1px #242A38;
+  color: rgb(237, 241, 248);
+  font-weight: 400;
+  width: max-content;
+  padding: 4px 6px;
+  margin-right: 50px;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin-top: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all .3s ease-in-out 0s;
+}
+
+.main-button:hover {
+  background-color: #d5dfe4;
+  color: black;
+  transition: all .3s ease 0s;
+  transform: translateY(-3px);
 }
 
 .mar-left{
