@@ -1,6 +1,9 @@
 {
   "name": "portfolio",
   "version": "0.0.0",
+  "engines": {
+    "node": "16.14.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -39,7 +42,9 @@
     "graphql-tag": "^2.10.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
-    "zone.js": "~0.10.3"
+    "zone.js": "~0.10.3",
+    "@angular/cli": "~10.0.1",
+    "@angular/compiler-cli": "~10.0.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1000.1",
